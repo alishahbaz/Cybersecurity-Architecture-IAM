@@ -48,15 +48,15 @@ flowchart LR
 
 ## How to read this wiki
 
-1. [Introduction to IAM](/wiki/1-Introduction)
-2. [IAM Foundations: Directories and Sync](/wiki/2-IAM-Foundations)
-3. [Administration / Identity Governance](/wiki/3-Administration-Identity-Governance)
-4. [Authentication and Single Sign-On](/wiki/4-Authentication-and-Single-Sign-On)
-5. [Authorization and Risk-Based Access](/wiki/5-Authorization-and-Risk-Based-Access)
-6. [Privileged Access Management](/wiki/6-Privileged-Access-Management)
-7. [Audit and User Behavior Analytics](/wiki/7-Audit-and-User-Behavior-Analytics)
-8. [Federation, Enterprise IAM, and CIAM](/wiki/8-Federation-Enterprise-and-CIAM)
-9. [Reference Architecture](/wiki/9-Reference-Architecture)
+1. [Introduction to IAM](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/1-Introduction)
+2. [IAM Foundations: Directories and Sync](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/2-IAM-Foundations)
+3. [Administration / Identity Governance](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/3-Administration-Identity-Governance)
+4. [Authentication and Single Sign-On](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/4-Authentication-and-Single-Sign-On)
+5. [Authorization and Risk-Based Access](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/5-Authorization-and-Risk-Based-Access)
+6. [Privileged Access Management](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/6-Privileged-Access-Management)
+7. [Audit and User Behavior Analytics](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/7-Audit-and-User-Behavior-Analytics)
+8. [Federation, Enterprise IAM, and CIAM](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/8-Federation-Enterprise-and-CIAM)
+9. [Reference Architecture](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/9-Reference-Architecture)
 
 ---
 
@@ -81,4 +81,4 @@ flowchart LR
 
 ## Start here
 
-[1. Introduction to IAM](/wiki/1-Introduction)
+[1. Introduction to IAM](https://github.com/alishahbaz/Cybersecurity-Architecture-IAM/wiki/1-Introduction)
