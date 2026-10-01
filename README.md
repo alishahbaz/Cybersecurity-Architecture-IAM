@@ -1,4 +1,4 @@
-# 04 Identity & Access Management (IAM)
+# 04 Cybersecurity - Identity & Access Management (IAM)
 
 This wiki explains the **Identity and Access Management (IAM)** domain of cybersecurity architecture.
 
